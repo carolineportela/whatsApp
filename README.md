@@ -1,6 +1,6 @@
 # whatsApp
 
-![](./img/capturar.PNG)
+![](./img/Capturar.PNG)
 
 ---
 
